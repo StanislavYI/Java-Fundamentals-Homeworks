@@ -1,0 +1,5 @@
+5,Georgi,Ivanov,14,Novi Pazar
+2,Stanislav,Damianov,19,Vidin
+8,Georgi,Dimitrov,17,Slatina
+4,Valia,Georgieva,20,Bahovica
+1,Radoslav,Iliev,15,Pernik
